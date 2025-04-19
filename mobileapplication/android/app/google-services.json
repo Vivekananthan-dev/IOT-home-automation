@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024911641176",
+    "project_id": "iot-app-f5138",
+    "storage_bucket": "iot-app-f5138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024911641176:android:078415cf1965f283db582d",
+        "android_client_info": {
+          "package_name": "com.example.mobileapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe3v7ZscLNwQiynhAm3TGJRN1DGFnb148"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

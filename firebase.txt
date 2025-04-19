@@ -1,0 +1,17 @@
+firebase
+Fire base api key: AIzaSyDzL_-th-PXinHPlp6PapqB8cq_MTWTS04
+
+
+database: https://iot-app-f5138-default-rtdb.asia-southeast1.firebasedatabase.app/
+
+//Pins
+#define ONE_WIRE_BUS 14 // GPIO14 on ESP32
+const int motionSensor = 12;
+const int smoke;
+const int photoresistor = 26;
+const int servo = 18;
+const int current;
+const int light1_relay = 2;
+const int light2_relay = 4;
+const int fan_relay = 5;  //check
+const int buzzer ;

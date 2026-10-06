@@ -5,15 +5,15 @@
 #include <DallasTemperature.h>
 
 #include <ESP32Servo.h>
-#define WIFI_SSID "Use Paniko"
-#define WIFI_PASSWORD "Ram@2003"
-#define API_KEY "AIzaSyDzL_-th-PXinHPlp6PapqB8cq_MTWTS04"
-#define DATABASE_URL "https://iot-app-f5138-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define API_KEY ""
+#define DATABASE_URL ""
 
 
-#define _SSID "Use Paniko"          // Your WiFi SSID
-#define _PASSWORD "Ram@2003"      // Your WiFi Password
-#define REFERENCE_URL "https://iot-app-f5138-default-rtdb.asia-southeast1.firebasedatabase.app/"  // Your Firebase project reference url
+#define _SSID ""          // Your WiFi SSID
+#define _PASSWORD ""      // Your WiFi Password
+#define REFERENCE_URL ""  // Your Firebase project reference url
 
 Firebase firebase(REFERENCE_URL);
 

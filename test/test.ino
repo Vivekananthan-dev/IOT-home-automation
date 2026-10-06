@@ -7,10 +7,10 @@
 #include <ESP32Servo.h>
 
 // WiFi and Firebase credentials
-#define WIFI_SSID "Shrinivas 5G"
-#define WIFI_PASSWORD "sEENU@1234"
-#define API_KEY "AIzaSyDzL_-th-PXinHPlp6PapqB8cq_MTWTS04"
-#define DATABASE_URL "https://iot-app-f5138-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define API_KEY ""
+#define DATABASE_URL ""
 
 Firebase firebase(DATABASE_URL);
 

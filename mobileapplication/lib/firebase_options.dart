@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDzL_-th-PXinHPlp6PapqB8cq_MTWTS04',
-    appId: '1:1024911641176:web:d8040705a5990b5ddb582d',
-    messagingSenderId: '1024911641176',
-    projectId: 'iot-app-f5138',
-    authDomain: 'iot-app-f5138.firebaseapp.com',
-    storageBucket: 'iot-app-f5138.appspot.com',
-    measurementId: 'G-MV7HZSW9CJ',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCe3v7ZscLNwQiynhAm3TGJRN1DGFnb148',
-    appId: '1:1024911641176:android:078415cf1965f283db582d',
-    messagingSenderId: '1024911641176',
-    projectId: 'iot-app-f5138',
-    storageBucket: 'iot-app-f5138.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 }

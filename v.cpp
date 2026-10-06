@@ -4,10 +4,10 @@
 //#include <Adafruit_Sensor.h>
 #include <DHT.h>
 
-#define FIREBASE_HOST "https://iot-app-f5138-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "AIzaSyDzL_-th-PXinHPlp6PapqB8cq_MTWTS04"
-#define WIFI_SSID "yourwifissid"
-#define WIFI_PASSWORD "yourwifipassword"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 #define LIGHT1_PIN 5  // Pin connected to relay for light 1
 #define FAN_PIN 4     // Pin connected to relay for fan

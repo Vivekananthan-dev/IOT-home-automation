@@ -7,11 +7,11 @@
 
 #include <ESP32Servo.h>
 
-#define _SSID "Poda eruma"          // Your WiFi SSID
-#define _PASSWORD "VSweta0078" // Your WiFi Password
-#define mqtt_server "91.121.93.94"
-#define REFERENCE_URL "https://iot-app-f5138-default-rtdb.asia-southeast1.firebasedatabase.app/"  // Your Firebase project reference url
-//#define API_KEY "AIzaSyDzL_-th-PXinHPlp6PapqB8cq_MTWTS04"
+#define _SSID ""          // Your WiFi SSID
+#define _PASSWORD "" // Your WiFi Password
+#define mqtt_server ""
+#define REFERENCE_URL ""  // Your Firebase project reference url
+//#define API_KEY ""
 
 Firebase firebase(REFERENCE_URL);
 

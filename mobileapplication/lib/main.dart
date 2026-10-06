@@ -7,13 +7,13 @@ void main() async {
   
   await Firebase.initializeApp(
     options: const FirebaseOptions(
-    apiKey: 'AIzaSyDzL_-th-PXinHPlp6PapqB8cq_MTWTS04', 
-    appId: '1:1024911641176:android:078415cf1965f283db582d', 
-    messagingSenderId: '1024911641176', 
-    projectId: 'iot-app-f5138',
-    authDomain: 'iot-app-f5138.firebaseapp.com',
-    storageBucket: 'iot-app-f5138.appspot.com',
-    databaseURL: 'https://iot-app-f5138-default-rtdb.asia-southeast1.firebasedatabase.app/',
+    apiKey: '', 
+    appId: '', 
+    messagingSenderId: '', 
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
+    databaseURL: '',
     )
   );
   runApp(const MyApp());

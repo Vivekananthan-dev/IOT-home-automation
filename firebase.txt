@@ -1,8 +1,8 @@
 firebase
-Fire base api key: AIzaSyDzL_-th-PXinHPlp6PapqB8cq_MTWTS04
+Fire base api key: 
 
 
-database: https://iot-app-f5138-default-rtdb.asia-southeast1.firebasedatabase.app/
+database:
 
 //Pins
 #define ONE_WIRE_BUS 14 // GPIO14 on ESP32
